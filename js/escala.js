@@ -26,7 +26,7 @@ function insertData() {
     if (employeeName) {
         const newRow = document.createElement('tr');
 
-        fetch("../motos.json")
+        fetch("https://github.com/cromint/atendimento/blob/main/motos.json")
             .then((res) => {
                 return res.json()
             }).then((data) => {
