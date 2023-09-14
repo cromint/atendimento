@@ -1,0 +1,163 @@
+{
+    "MD011": {
+        "codigo": "MD011",
+        "nome": "OSMAR OSVALDO DOS SANTOS",
+        "br":  "BR0380562708",
+        "base": "DIADEMA",
+        "ativacao": "06:00",
+        "desativacao": "15:00"
+    },
+    "MD012": {
+        "codigo": "MD012",
+        "nome": "ROBSON AMARO SANTOS DA SILVA",
+        "br":  "BR0461493588",
+        "base": "DIADEMA",
+        "ativacao": "06:00",
+        "desativacao": "15:00"
+    },
+    "MD016": {
+        "codigo": "MD016",
+        "nome": "DAMIÃO ALVES PEREIRA",
+        "br":  "BR0140470248",
+        "base": "DIADEMA",
+        "ativacao": "13:00",
+        "desativacao": "22:00"
+    },
+    "MD017": {
+        "codigo": "MD017",
+        "nome": "FABIO SCHEVENIN",
+        "br":  "BR0140364668",
+        "base": "DIADEMA",
+        "ativacao": "13:00",
+        "desativacao": "22:00"
+    },
+    "MD020": {
+        "codigo": "MD020",
+        "nome": "WILSON MORAIS DE OLIVEIRA",
+        "br":  "BR0277866288",
+        "base": "DIADEMA",
+        "ativacao": "",
+        "desativacao": ""
+    },
+    "MI011": {
+        "codigo": "MI011",
+        "nome": "ERICK HELDER DE LIMA SILVA",
+        "br":  "BR0486889538",
+        "base": "ITAPECERICA",
+        "ativacao": "06:00",
+        "desativacao": "15:00"
+    },
+    "MI012": {
+        "codigo": "MI012",
+        "nome": "ANDRÉ ARAGÃO",
+        "br":  "BR0313776758",
+        "base": "ITAPECERICA",
+        "ativacao": "06:00",
+        "desativacao": "15:00"
+    },
+    "MI016": {
+        "codigo": "MI16",
+        "nome": "ALEX CELESTINO OLIVEIRA",
+        "br":  "BR0396760178",
+        "base": "ITAPECERICA",
+        "ativacao": "13:00",
+        "desativacao": "22:00"
+    },
+    "MI017": {
+        "codigo": "MI017",
+        "nome": "JEFERSON DA SILVA COSTA",
+        "br":  "BR0229637188",
+        "base": "ITAPECERICA",
+        "ativacao": "13:00",
+        "desativacao": "22:00"
+    },
+    "MI020": {
+        "codigo": "MI020",
+        "nome": "FERNANDO OZORIO",
+        "br":  "BR0187996788",
+        "base": "ITAPECERICA",
+        "ativacao": "",
+        "desativacao": ""
+    },
+    "MM011": {
+        "codigo": "MM011",
+        "nome": "GABRIEL LUIZ  DE MORAES LIMA",
+        "br":  "BR0439177578",
+        "base": "MONTE SANTO",
+        "ativacao": "06:00",
+        "desativacao": "15:00"
+    },
+    "MM012": {
+        "codigo": "MM012",
+        "nome": "DOUGLAS CAVALCANTE DOS SANTOS",
+        "br":  "BR0470120928",
+        "base": "MONTE SANTO",
+        "ativacao": "06:00",
+        "desativacao": "15:00"
+    },
+    "MM016": {
+        "codigo": "MM016",
+        "nome": "EMERSON MENDES DA FONSECA",
+        "br":  "BR0284979018",
+        "base": "MONTE SANTO",
+        "ativacao": "13:00",
+        "desativacao": "22:00"
+    },
+    "MM017": {
+        "codigo": "MM017",
+        "nome": "JONATHAS LIMA DE AMORIM",
+        "br":  "BR0399540188",
+        "base": "MONTE SANTO",
+        "ativacao": "13:00",
+        "desativacao": "22:00"
+    },
+    "MM020": {
+        "codigo": "MM020",
+        "nome": "ROGÉRIO CAITANO DA SILVA",
+        "br":  "BR0313776758",
+        "base": "MONTE SANTO",
+        "ativacao": "",
+        "desativacao": ""
+    },
+    "WESLLEY": {
+        "codigo": "",
+        "nome": "DORIVAL WESLLEY FABRI",
+        "br":  "BR0359720538",
+        "base": "MONTE SANTO",
+        "ativacao": "",
+        "desativacao": ""
+    },
+    "FABIO": {
+        "codigo": "",
+        "nome": "FABIO FERREIRA DA ROCHA",
+        "br":  "BR0273389478",
+        "base": "ITAPECERICA",
+        "ativacao": "",
+        "desativacao": ""
+    },
+    "JEFFERSON": {
+        "codigo": "",
+        "nome": "JEFFERSON RAMOS DIAS",
+        "br":  "BR0354303168",
+        "base": "MONTE SANTO",
+        "ativacao": "",
+        "desativacao": ""
+    },
+    "THIAGO": {
+        "codigo": "",
+        "nome": "WALLESON THIAGO DE SOUSA OLIVEIRA",
+        "br":  "BR0433694638",
+        "base": "DIADEMA",
+        "ativacao": "",
+        "desativacao": ""
+    },
+    "INSERIR": {
+        "codigo": "",
+        "nome": "",
+        "br":  "",
+        "base": "",
+        "ativacao": "",
+        "desativacao": ""
+    }
+
+}
